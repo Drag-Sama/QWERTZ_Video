@@ -1,7 +1,7 @@
 # Web-3
 Projet de web 3 L2 info 2025
 Nom de groupe: QWERTZ Video
-MOUSSA-MOHAMED Ali : HTML / CSS
+MOUSSA MOHAMED Ali : JavaScript / HTML / CSS 
 VASSEUR Quentin  : PHP
 KAJDA Antoine : Base de donne
 
